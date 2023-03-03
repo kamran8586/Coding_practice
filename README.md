@@ -1,7 +1,7 @@
 # Coding_practice
 ## All my answer questions of my coding problems 
 
-# 01. Given two arrays of A and B respectively of sizes N1 and N2, the task is to calculate the product of the maximum element of the first array and minimum element of the second array.
+### 01. Given two arrays of A and B respectively of sizes N1 and N2, the task is to calculate the product of the maximum element of the first array and minimum element of the second array.
 
 ```cpp
 long long find_multiplication(int a[], int b[], int n, int m)
